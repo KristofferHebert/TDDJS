@@ -1,0 +1,2 @@
+Recognizing the fact that JS spends more time in maintenance vs development
+It should become easier to maintain overtime
