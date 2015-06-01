@@ -1,0 +1,31 @@
+2) 
+
+TDD is think, red, green and refactor....
+
+a bit of test code, then production code, then run 
+
+
+write tests backwards, rapid fine grain cycle
+
+allot of time and practice
+
+Think -> Red -> Green -> refactor
+
+Just get the test to pass, then improve in small steps
+
+Then move to think
+
+Why TDD Works
+
+Expressing your intentions twice, most errors are caught
+
+Tiny steps - constantly check your hypotheses
+
+node programes can be broken into piences
+
+
+jake auto runs all functions starting with test
+
+unit tes
+
+

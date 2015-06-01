@@ -1,0 +1,7 @@
+arrange // create dom elements
+act // run production code
+assert // check dom elements
+reset // remove dom
+
+conent and behavior should be independent, so you can change your layout without changing code
+

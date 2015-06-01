@@ -1,0 +1,17 @@
+unit test should be fast
+
+integration points test interactions with other sysmes
+
+focused test on one point, tests code interactions like db connects
+
+unit tests
+focused integration points
+end to end test
+test entire framework, like entering logging in
+user unit/intergration before end to end
+
+in js functions are firstcall citizens
+
+callbacks are used in async patterns
+
+

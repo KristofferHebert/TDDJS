@@ -1,0 +1,3 @@
+karma runs tests in all browsers
+
+
